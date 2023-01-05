@@ -2,3 +2,4 @@ remote_theme: just-the-docs
 title: ASiS-docs homepage
 description: Bookmark this to keep an eye on my project updates!
 logo: "/assets/asis.svg"
+search_enabled: true
